@@ -1,0 +1,8 @@
+mobile_price_classification/
+venv/
+steps.txt
+script.py
+README.md
+requirements.txt
+test-V-1.csv
+train-V-1.csv
